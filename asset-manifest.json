@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/guardian-lite-lucky-wheel/static/css/main.b749ed96.css",
-    "main.js": "/guardian-lite-lucky-wheel/static/js/main.0ecc5c2d.js",
+    "main.css": "/guardian-lite-lucky-wheel/static/css/main.87ab94f7.css",
+    "main.js": "/guardian-lite-lucky-wheel/static/js/main.45a0910a.js",
     "static/js/787.89d1a930.chunk.js": "/guardian-lite-lucky-wheel/static/js/787.89d1a930.chunk.js",
     "static/media/background.png": "/guardian-lite-lucky-wheel/static/media/background.6bc6378f46646accc451.png",
     "static/media/bgWheel.png": "/guardian-lite-lucky-wheel/static/media/bgWheel.3468d940cd8ff00b009d.png",
     "static/media/1000CareCoins.png": "/guardian-lite-lucky-wheel/static/media/1000CareCoins.bd5c8fd0855ebae038f9.png",
     "index.html": "/guardian-lite-lucky-wheel/index.html",
-    "main.b749ed96.css.map": "/guardian-lite-lucky-wheel/static/css/main.b749ed96.css.map",
-    "main.0ecc5c2d.js.map": "/guardian-lite-lucky-wheel/static/js/main.0ecc5c2d.js.map",
+    "main.87ab94f7.css.map": "/guardian-lite-lucky-wheel/static/css/main.87ab94f7.css.map",
+    "main.45a0910a.js.map": "/guardian-lite-lucky-wheel/static/js/main.45a0910a.js.map",
     "787.89d1a930.chunk.js.map": "/guardian-lite-lucky-wheel/static/js/787.89d1a930.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b749ed96.css",
-    "static/js/main.0ecc5c2d.js"
+    "static/css/main.87ab94f7.css",
+    "static/js/main.45a0910a.js"
   ]
 }
